@@ -31,12 +31,9 @@ Here are some ideas to get you started:
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kdChavada&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kdChavada&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kdChavada&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
